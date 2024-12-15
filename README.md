@@ -1,0 +1,2 @@
+# PHP Undefined Variable Bug
+This repository demonstrates a common PHP error: using an undefined variable. The `bug.php` file contains the buggy code. The `bugSolution.php` file shows the corrected version.
